@@ -1,0 +1,34 @@
+
+/* header */
+
+.imfd
+{
+	background-image: url(img/baniere.jpg);
+	background-position: center 35%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+.lead
+{
+	font-size: 40px;
+}
+
+.tx
+{
+	text-shadow: 30px black;
+}
+
+/* Contexte */
+
+.dim
+{
+	margin-bottom: 40px;
+	margin-top: 80px;
+}
+
+
+
+
+
